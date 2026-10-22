@@ -11,7 +11,7 @@ class SwiftShopApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'SwiftShop E-commerce1122t211',
+      title: 'SwiftShop E-commerce',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.indigo),
         useMaterial3: true,
